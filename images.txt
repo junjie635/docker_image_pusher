@@ -4,7 +4,8 @@
 #xhofe/alist:latest
 # ollama/ollama
 # python:3.12.3-slim-bullseye
-mysql:8.0.36
+# mysql:8.0.36
+justsong/one-api
 # node:20.9-bullseye-slim
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
