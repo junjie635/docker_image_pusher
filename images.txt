@@ -8,7 +8,8 @@
 # justsong/one-api
 # mongo:4.4.29
 # mongo:latest
-nextcloud
+# nextcloud
+frooodle/s-pdf
 # node:20.9-bullseye-slim
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
