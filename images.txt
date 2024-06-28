@@ -9,8 +9,9 @@
 # mongo:4.4.29
 # mongo:latest
 # nextcloud
-onlyoffice/documentserver
+# onlyoffice/documentserver
 # frooodle/s-pdf
 # node:20.9-bullseye-slim
+ollama/ollama
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+--platform=linux/arm64
