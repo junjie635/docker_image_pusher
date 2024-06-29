@@ -12,6 +12,7 @@
 # onlyoffice/documentserver
 # frooodle/s-pdf
 # node:20.9-bullseye-slim
-ollama/ollama
+# ollama/ollama
+python:3.11-slim-bookworm
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
