@@ -14,6 +14,7 @@
 # node:20.9-bullseye-slim
 # ollama/ollama
 # python:3.11-slim-bookworm
-mongo:4.4.29
+# mongo:4.4.29
+ubuntu
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
