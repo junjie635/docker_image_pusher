@@ -13,6 +13,7 @@
 # frooodle/s-pdf
 # node:20.9-bullseye-slim
 # ollama/ollama
-python:3.11-slim-bookworm
+# python:3.11-slim-bookworm
+mongo:4.4.29
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
