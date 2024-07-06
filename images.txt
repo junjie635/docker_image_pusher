@@ -15,6 +15,6 @@
 # ollama/ollama
 # python:3.11-slim-bookworm
 # mongo:4.4.29
-ubuntu
+ubuntu:jammy
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+--platform=linux/arm64/v8 xiaoyaliu/alist
